@@ -234,7 +234,7 @@ _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls
 _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
 
 - [Video](https://youtu.be/bt9MRkf5Mus?t=4601)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Slides source code](https://github.com/GavinJoyce/ember-present/blob/master/README.md#emberconf-2018-talk-source-code)
 - [ember-present](https://github.com/GavinJoyce/ember-present)
 
 #### Reuse, Recycle: One Team's Journey From Projects to Products by [Sarah Bostwick]()
